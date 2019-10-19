@@ -1,0 +1,12 @@
+{
+  "name": "ts-mini-tss-turret",
+  "version": "0.0.1",
+  "description": "Port of turret css library for ts-mini",
+  "main": "turret.ts",
+  "repository": "https://github.com/DanielMazurkiewicz/ts-mini-tss-turret.git",
+  "author": "Daniel Mazurkiewicz <daniel.mazurkiewicz.dm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-mini": "*"
+  }
+}
